@@ -1,0 +1,14 @@
+﻿<Window x:Class="ScholarshipApplicationProject.Desktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ScholarshipApplicationProject.Desktop"
+        xmlns:views="clr-namespace:ScholarshipApplicationProject.Desktop.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <views:ControlPanelView />
+        <views:ManagmentView />
+    </StackPanel>
+</Window>

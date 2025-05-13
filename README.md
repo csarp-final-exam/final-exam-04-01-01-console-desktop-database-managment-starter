@@ -1,1 +1,1 @@
-# final-exam-04-01-01-console-desktop-database-managment-starter
+# -gyak-vizsga-03-02-console-desktop-adatbazis
